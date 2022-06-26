@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://button-component-angular.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/manthanank/button-component">
       Solution
     </a>
     <span> | </span>
@@ -44,17 +44,20 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+- - <a href="https://button-component-angular.vercel.app/">Demo</a>
 - What was your experience?
+- - I liked it.
 - What have you learned/improved?
+- - I learned how to use the `<button>` element.
 - Your wisdom? :)
+- - I think it's a good idea to use the `<button>` element.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Angular](https://angular.io/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Features
 
@@ -89,10 +92,12 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [manthanank.xyz](http://www.manthanank.xyz/)
+- GitHub [@manthanank](https://github.com/manthanank)
+- Twitter [@manthan_ank](https://twitter.com/manthan_ank)
 
+
+### About this project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
