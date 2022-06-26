@@ -1,0 +1,147 @@
+.button{
+    color: #3F3F3F;
+    background-color: #E0E0E0;
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+}
+.button:hover{
+    color: #3F3F3F;
+    background-color: #878787;
+    width: 100px;
+}
+.button:focus{
+    color: #3F3F3F;
+    background-color: #4e4e4e;
+    width: 100px;
+}
+.button-outline{
+    color: #0078ce;
+    background-color: #ffffff;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid#00a1eb;
+}
+.button-outline:hover{
+    color: #0078ce;
+    background-color: #dceaff;
+    border: 1px solid#00a1eb;
+    width: 100px;
+}
+.button-outline:focus{
+    color: #0078ce;
+    background-color: #dceaff;
+    border: 1px solid#00a1eb;
+    width: 100px;
+}
+.button-text{
+    color: #0078ce;
+    background-color: #ffffff;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid#ffffff;
+}
+.button-text:hover{
+    color: #0078ce;
+    background-color: #c9dfff;
+    border: 1px solid#ffffff;
+    width: 100px;
+}
+.button-disableShadow{
+    color: #3F3F3F;
+    background-color: #E0E0E0;
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+    box-shadow: none;
+}
+.button-disabled{
+    color: rgb(103, 103, 103);
+    background-color: #E0E0E0;
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+}
+.button-disabled-text{
+    color: rgb(103, 103, 103);
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+}
+.button-default{
+    color: #3F3F3F;
+    background-color: #E0E0E0;
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+}
+.button-default:hover{
+    color: #3F3F3F;
+    background-color: #6b6b6b;
+    width: 100px;
+}
+.button-default:focus{
+    color: #3F3F3F;
+    background-color: #4e4e4e;
+    width: 100px;
+}
+.button-primary{
+    color: #ffffff;
+    background-color: #0078ce;
+    width: 100px;
+    border-radius: 5px;
+    border: #ffffff;
+}
+.button-primary:hover{
+    color: #ffffff;
+    background-color: #00a1eb;
+    width: 100px;
+}
+.button-primary:focus{
+    color: #ffffff;
+    background-color: #00a1eb;
+    width: 100px;
+}
+.button-secondary{
+    color: #ffffff;
+    background-color: #4d4d4d;
+    width: 100px;
+    border-radius: 5px;
+    border: #3F3F3F;
+}
+.button-secondary:hover{
+    color: #ffffff;
+    background-color: #313131;
+    width: 100px;
+}
+.button-secondary:focus{
+    color: #ffffff;
+    background-color: #313131;
+    width: 100px;
+}
+.button-danger{
+    color: #ffffff;
+    background-color: #ff0000;
+    width: 100px;
+    border-radius: 5px;
+    border: #ffffff;
+}
+.button-danger:hover{
+    color: #ffffff;
+    background-color: #870000;
+    width: 100px;
+}
+.button-danger:focus{
+    color: #ffffff;
+    background-color: #860000;
+    width: 100px;
+}
+.row{
+    padding: 20px;
+}
+.col{
+    padding: 20px;
+}
+h6{
+    color: rgb(114, 114, 114);
+}
