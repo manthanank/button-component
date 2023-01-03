@@ -79,7 +79,7 @@ $ git clone https://github.com/manthanank/button-component
 $ npm install
 
 # Run the app
-$ npm start
+$ ng serve
 ```
 
 ## Acknowledgements
@@ -95,7 +95,6 @@ $ npm start
 - Website [manthanank.xyz](http://www.manthanank.xyz/)
 - GitHub [@manthanank](https://github.com/manthanank)
 - Twitter [@manthan_ank](https://twitter.com/manthan_ank)
-
 
 ### About this project
 
